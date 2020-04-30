@@ -20,4 +20,5 @@ int main()
     printf("Shanghai        6340.50   1360.26\n");
     printf("Zhejiang      101800.00   4894.00\n");
     printf("------------------------------------\n");
+    return 0;
 }

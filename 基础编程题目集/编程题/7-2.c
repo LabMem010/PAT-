@@ -21,4 +21,5 @@ int main()
         h2 = h1 + (60 + min % 60 + m1) / 60;
         printf("%d%02d", h2, m2);
     }
+    return 0;
 }
